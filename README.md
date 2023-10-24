@@ -1,6 +1,6 @@
-### SHARK ATTACKS - DA project-1
+### SHARK ATTACKS - DA project-1
 
-![Alt text]("../images/cover.png")
+![alt text](images/cover.png "Shark!")
 
 ## Introduction
 
