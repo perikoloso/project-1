@@ -1,3 +1,7 @@
+### SHARK ATTACKS - DA project-1
+
+![Alt text]("../images/cover.png")
+
 ## Introduction
 
 Based on a data file, we have proceeded to clean and standardize the data in order to draw conclusions.
@@ -12,6 +16,7 @@ Since the file contains information that needs to be cleaned, the following acti
 2. Cleaning of null elements, either eliminated or replaced by "Unknown, so that the necessary filter is applied to obtain the necessary data.
 3. Standardize the activities in which the shark attack has occurred.
 4. Unified countries to be able to count attacks by location.
+5. Group Type of attack in just 2 valid unique values.
 5. The AGE field has been filtered to be able to work with a representative set, as well as the SEX and FATAL fields. These fields are necessary for the corresponding analysis.
 
 ## Hypothesis
